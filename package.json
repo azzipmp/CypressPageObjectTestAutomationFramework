@@ -19,8 +19,7 @@
       "fileSuffix": ".cucumber"
     }
   },
-  "author": "RahulShetty",
-  "license": "ISC",
+ 
   "devDependencies": {
     "cypress": "^7.1.0",
     "cypress-cucumber-preprocessor": "^2.5.5",
